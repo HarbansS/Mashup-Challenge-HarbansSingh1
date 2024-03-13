@@ -1,0 +1,33 @@
+ /* ORIGINAL TASK PUPILS STARTED WITH
+Full credit to code.org for task */
+
+img {
+  width: 150px;
+  height: 150px;
+}
+body{
+  background-color: #ffd2ad;/*background color*/
+  color: #6b6b6b;/*font color*/
+
+}
+
+h1{/*for the top heading*/
+  font-family: fantasy;
+  font-size: 50px;
+}
+h2{/*for the animals name*/
+  font-family:  Brush Script MT, cursive;
+ font-size: 50px;
+}
+h3{/*what species the animal is*/
+  font-family: fantasy;
+  font-size: 25px;
+}
+p{
+ font-family: Copperplate, Papyrus, fantasy; 
+  font-size: 20px;
+}/*both of these are used for the same reason just a different area for the bold text*/
+b{
+  font-family: Copperplate, Papyrus, fantasy;
+  font-size: 20px;
+}
